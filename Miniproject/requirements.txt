@@ -1,0 +1,9 @@
+requests
+langchain
+langgraph
+langchain-community
+langchain-ollama
+python-dotenv
+tavily-python
+typing-extensions
+trafilatura[all]
